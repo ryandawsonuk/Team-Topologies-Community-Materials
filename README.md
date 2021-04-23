@@ -47,7 +47,7 @@ Where should the changes go? Choose a subsection that best represents the type o
 ## Diagrams and images
 
 * [Team Topologies quick reference card (QRC)](https://hennyportman.files.wordpress.com/2020/05/qrc-team-topologies-200525-v1.0-1.pdf) - Henny Portman - 2020-05-25 - EN - a PDF with some key ideas visualized and summarized - latest at https://hennyportman.wordpress.com/2020/05/25/review-team-topologies/
-* 
+* [Book infographic](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MAffO8xa1ZWmgZvfeK2%2F-MYsxuYCmyQc61m3WrJg%2F-MYsycH0XPy5EL-FZ1sI%2FTeam%20Topologies.pdf?alt=media&token=6c339ed6-d019-443e-8d71-d9bba35f439d) - [Yoan Thirion](https://www.linkedin.com/in/yoan-thirion) - 2021-04-23 - EN - an infographic of the book representing the major concepts from Yoan's Point of View - latest at https://yoan-thirion.gitbook.io/knowledge-base/xtrem-reading/resources/book-notes/team-topologies
 
 ## Facilitation guides
 
